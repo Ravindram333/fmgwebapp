@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\fmgapp.exe
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\publish\web.config
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\appsettings.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\publish\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\publish\appsettings.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\publish\fmgapp.deps.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\publish\fmgapp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\fmgapp.dll
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\fmgapp.deps.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\fmgapp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\bin\Release\net7.0\publish\fmgapp.pdb

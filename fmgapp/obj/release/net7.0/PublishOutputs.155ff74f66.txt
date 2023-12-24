@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\fmgapp.exe
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\appsettings.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\fmgapp.dll
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\fmgapp.deps.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\fmgapp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\AspDonet\fmgapp\publish\fmgapp.pdb
